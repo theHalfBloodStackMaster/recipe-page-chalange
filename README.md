@@ -34,8 +34,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-This is my first web page creation, and i have kept it very simple by using html and css only. I have learned how to change font family, precedence of styling in css and inline html elements, creating unordered and ordered list, table creation and image handling
-To see how you can add code snippets, see below:
+This is my first web page creation, and i have kept it very simple by using html and css only. I have learned how to change font family, precedence of styling in css and inline html elements, creating unordered and ordered list, table creation and image handling.
 
 ### Continued development
 
